@@ -1,0 +1,7 @@
+C:\Users\Altug\source\repos\CurrencyApp\CurrencyApp\obj\Debug\CurrencyApp.csprojAssemblyReference.cache
+C:\Users\Altug\source\repos\CurrencyApp\CurrencyApp\obj\Debug\CurrencyApp.csproj.CoreCompileInputs.cache
+C:\Users\Altug\source\repos\CurrencyApp\CurrencyApp\bin\Debug\CurrencyApp.exe.config
+C:\Users\Altug\source\repos\CurrencyApp\CurrencyApp\bin\Debug\CurrencyApp.exe
+C:\Users\Altug\source\repos\CurrencyApp\CurrencyApp\bin\Debug\CurrencyApp.pdb
+C:\Users\Altug\source\repos\CurrencyApp\CurrencyApp\obj\Debug\CurrencyApp.exe
+C:\Users\Altug\source\repos\CurrencyApp\CurrencyApp\obj\Debug\CurrencyApp.pdb
